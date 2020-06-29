@@ -119,6 +119,12 @@ hr{
 	float: left;
 	margin-right: 30px;	
 }
+.greyhat-img
+{
+	width: 25%;
+	float: right;
+	margin-left: 30px;
+}
 .chicken-img
 {
 	width: 25%;

@@ -1,2 +1,2 @@
-# nischal_subedi
-Another Website
+# Nischal's Website
+My Personal Website
